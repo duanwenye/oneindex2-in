@@ -109,7 +109,7 @@ function get_absolute_path($path) {
 }
 
 
-onedrive::$client_id = config('client_id');
-onedrive::$client_secret = config('client_secret');
-onedrive::$redirect_uri = config('redirect_uri');
-onedrive::$app_url = config('app_url');
+onedrive::$client_id = 'b8161002-0df1-4f8f-b2a6-cd9a62e8d5d2';
+onedrive::$client_secret = 'gmySEKG39837%ezrfJFR-${';
+onedrive::$redirect_uri = 'redirect_uri';
+onedrive::$app_url = 'https://oneindex.github.io/';
